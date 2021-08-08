@@ -10,6 +10,9 @@ MERN
 1) DIY categories
 2) adding images and videos to blog posts
 
+# ERRORS to fix
+1) internal server errors not allowing user to post more than one post
+
 # Setup project locally
 1) download code/clone the repository to local machine
 2) navigate to `server` folder and run `npm i express mongoose nodemon multer bcrypt dotenv path`
